@@ -1,0 +1,5 @@
+pytest
+requests
+validators
+shutil
+argparse
